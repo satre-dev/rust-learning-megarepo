@@ -67,7 +67,7 @@ Transition from Web Development to Systems Programming through deliberate, struc
   - [ ] Contribute to open-source Rust projects
 
 ## 📊 Progress Tracking
-- Start Date: [Insert Date]
+- Start Date: 05-06-2025
 - Estimated Completion of Fundamentals: 3-6 months
 - Estimated Full Journey: 12-18 months
 
