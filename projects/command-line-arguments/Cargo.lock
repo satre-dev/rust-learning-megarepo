@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "helloworld"
+name = "command-line-arguments"
 version = "0.1.0"
